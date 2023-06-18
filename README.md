@@ -1,5 +1,7 @@
 # Cardapio Online
 
+Nessa primeira parte criar uma API
+
 ## Objetivo
 
 ## Processo de Aprendizagem
