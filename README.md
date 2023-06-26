@@ -6,6 +6,9 @@ Nessa primeira parte criar uma API
 
 ## Processo de Aprendizagem
 
+- []
+- []
+
 ## Agradecimento
 
 Agradeço a Fernanda Kipper pela ideia do projeto
