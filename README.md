@@ -6,8 +6,9 @@ Nessa primeira parte criar uma API
 
 ## Processo de Aprendizagem
 
-- []
-- []
+- [ ]
+- [ ]
+- [ ]
 
 ## Agradecimento
 
