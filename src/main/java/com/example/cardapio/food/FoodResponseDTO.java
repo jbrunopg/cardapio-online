@@ -1,7 +1,11 @@
 package com.example.cardapio.food;
 
-public class FoodResponseDTO(Long id, String title, String image, Integer price) {
+public class FoodResponseDTO {
     public FoodResponseDTO(Food food){
-        this(food.getId(), food.getTitle(), food.getImage(), food.getPrice());
+        this(food.getTitle(), food.getImage(), food.getPrice());
+    }
+
+    public FoodResponseDTO(String title, String image, Integer price) {
+
     }
 }
