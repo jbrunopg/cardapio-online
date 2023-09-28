@@ -1,14 +1,20 @@
 # Cardapio Online
 
-Nessa primeira parte criar uma API
+API REST de cardápio com Spring Boot e PostgreSQL
 
 ## Objetivo
 
+Este projeto é uma API REST de cardápio desenvolvida com Spring Boot e PostgreSQL. A API permite que os usuários consultem e atualizem os dados do cardápio.
+
 ## Processo de Aprendizagem
 
-- [ ]
-- [ ]
-- [ ]
+### Requisitos:
+
+- [X]Java 17
+- [X] Maven
+- [X] PostgreSQL
+
+
 
 ## Agradecimento
 
