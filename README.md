@@ -10,7 +10,7 @@ Este projeto é uma API REST de cardápio desenvolvida com Spring Boot e Postgre
 
 ### Requisitos:
 
-- [X]Java 17
+- [X] Java 17
 - [X] Maven
 - [X] PostgreSQL
 
